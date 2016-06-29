@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+.terminal {
+    width: 400px;
+    margin: 0 auto;
+    border: thin solid #555;
+    padding: 30px;
+    line-height: 150%;
+}
+
+p {
+    margin-top: 0px;
+    border-bottom: thin solid #ddd;
+}
